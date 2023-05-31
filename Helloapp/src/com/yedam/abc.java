@@ -1,6 +1,6 @@
 package com.yedam;
 
-public class HelloApp {
+public class abc {
 	public static void main(String[] args) {
 		int num1 = 100;
 		int num2 = 50;
@@ -26,4 +26,4 @@ public class HelloApp {
 	} // end of main.
 } // end of class.
 //src 소스파일 bin 실행되는파일
-
+}
